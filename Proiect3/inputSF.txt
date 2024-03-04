@@ -1,0 +1,2 @@
+"Ana Radu", "Prizonierii timpului", "Science Fiction", 7, false, 9, "Calatorii in timp", 18, true
+"Victor Popa", "Androizii in lupta", "Science Fiction", 5, true, 6, "Inteligenta artificiala", false

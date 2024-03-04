@@ -1,0 +1,2 @@
+"Elena Mihail", "In umbra stelelor", "Fantezie", 5, false, 8, 16
+"Andrei Popescu",  "Labirintul memoriei", "Fantezie", 3, true, 6, 18

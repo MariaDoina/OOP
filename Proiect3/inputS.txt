@@ -1,0 +1,3 @@
+"Brian Greene", "The Elegant Universe", "Science", 4, false, 7, "Fizica"
+"Aria Sterling", "The Quantum Frontier: Unraveling the Mysteries of Subatomic Reality", "Science", 8, false, 5, "Chimie"
+"Sebastian Mercer", "Genes and Beyond: Exploring the Blueprint of Life and Evolution", "Science", 7, false, 9, "Biologie"
