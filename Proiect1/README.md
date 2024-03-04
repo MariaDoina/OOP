@@ -1,2 +1,2 @@
-Cerinte: vezi [Proiect1/Proiect 1 Programare Orientata Obiect.pdf](url)
+Cerinte: vezi Programare Orientata Obiect.pdf
 Subiect: Biblioteca.
